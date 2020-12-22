@@ -6,15 +6,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MartinRenteria/Personal-Note-Taker.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/MartinRenteria/Personal-Note-Taker/issues"
-  },
-  "homepage": "https://github.com/MartinRenteria/Personal-Note-Taker#readme"
+  }
 }
